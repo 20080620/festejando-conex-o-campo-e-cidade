@@ -69,4 +69,9 @@ ul {
 <p>a agroecologia busca reproduzir os padrões naturais, destacando as integrações entre espécies e fomentando o equilíbrio do sistema, cuidando e recuperando os solos sem uso de agritóxicos, fertilizantes químicas ou transgênicos [3].</p>
 <p><strong>ponto importantes:</strong></p>
 <ul>
+   <li>definição e princípios da agroecologia</li>
+   <li>benefícios da agroecoloia para a saúde e meio ambiente</li>
+   <li>diferença entre agroecologia e agricultura convencional</li>
+   <li>exemplos de práticas agroecológicas</li>
+</ul>
       
