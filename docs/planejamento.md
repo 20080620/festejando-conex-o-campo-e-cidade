@@ -55,23 +55,32 @@ ul {
 </html>
 
 <!DOCTYPE html>
-<html lang="pt-br">
+<html>
 <head>
-   <meta charset="UTF-8">
-   <title>estudos sobre agroecologia, horta urbana e logística alimentar</title>
+<title>planejamento de estudos</title>
 </head>
 <body>
 
-<h1>estudos sobre agroecologia, horta urbana e logística alimentar</h1>
+     <h1>planejar: quais conteúdos você vai estudar</h1>
 
-<h2>agroecologia</h2>
-<p>a agroecologia é um sistemas de produção de alimentos que visa a sustentabilidade, a diversidade e a justiça social. </p>
-<p>a agroecologia busca reproduzir os padrões naturais, destacando as integrações entre espécies e fomentando o equilíbrio do sistema, cuidando e recuperando os solos sem uso de agritóxicos, fertilizantes químicas ou transgênicos [3].</p>
-<p><strong>ponto importantes:</strong></p>
-<ul>
-   <li>definição e princípios da agroecologia</li>
-   <li>benefícios da agroecoloia para a saúde e meio ambiente</li>
-   <li>diferença entre agroecologia e agricultura convencional</li>
-   <li>exemplos de práticas agroecológicas</li>
-</ul>
-      
+     </ul>
+           <li>exemplos de práticas agroecológicas</li>
+     </ul>
+
+     <h2>horta urbana</h2>
+     <p>a porta urbana é um espaço de cultivo localizado em áreas urbanas.</p>
+     <p><strong>pontos importantes:</strong></p>
+     <ul>
+
+     <h2>logística alimentar</h2>
+     <p>a logística alimentar engloba todas as etapas do processo e distribuição de alimentos.</p>
+     <p>a logística alimentar é crucial para garantir a segurança e a qualidade dos alimentos que chegam à mesa dos consumidores.<p>
+     <p><strong>pontos importantes:</strong></p>
+     <ul>
+          <li>etapas de cadeia de logísticas alimentar</li>
+          <li>importância da segurança alimentar</li>
+          <li>adoação de práticas sustentaveis na logística</li>
+          <li>desafios e oportunidades na logística alimentar</li>
+    </ul>
+</body>
+</HTML>
